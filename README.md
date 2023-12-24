@@ -34,3 +34,14 @@
 * 旅のしおり作成機能
 * おすすめのプランなどの記事一覧
 * Google Maps Platformを使って現在位置取得機能
+
+### 利用する具体的な技術と高度な機能
+Rails7
+Ruby3
+Hotwire
+postgresql or Mysql
+JavaScript
+Bootstrap or tailwindcss
+heroku or http://Fly.io or render
+Google Maps Geolocation API
+Google Maps Geocording API
