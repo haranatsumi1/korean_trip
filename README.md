@@ -22,7 +22,6 @@ https://www.figma.com/file/FSRo3035WTLezyF2VCYseY/%E7%94%BB%E9%9D%A2%E9%81%B7%E7
 現在よく使われてる韓国旅行で使えるアプリに韓国内の飲食店や人気のスポットを探せるアプリがありますが、韓国製のアプリなので日本語の表示が間違っていたりきちんと翻訳できていなかったりと使いずらさを感じたので、日本人が使った時にわかりやすいアプリを作りたいと思いこのアプリを考案しました。
 
 ## 実装を予定している機能
-
 ### MVP
 * 会員登録
 * ログイン
@@ -39,13 +38,15 @@ https://www.figma.com/file/FSRo3035WTLezyF2VCYseY/%E7%94%BB%E9%9D%A2%E9%81%B7%E7
 * Google Maps Platformを使って現在位置取得機能
 
 ### 利用する具体的な技術と高度な機能
-Rails7
-Ruby3
-Hotwire
-postgresql or Mysql
-JavaScript
-Bootstrap or tailwindcss
-heroku or http://Fly.io or render
-Google Maps Geolocation API
-Google Maps Geocording API
+* Rails7
+* Ruby3
+* Hotwire
+* postgresql or Mysql
+* JavaScript
+* Bootstrap or tailwindcss
+* heroku or http://Fly.io or render
+* Google Maps Geolocation API
+* Google Maps Geocording API
 
+### ER図
+[![Image from Gyazo](https://i.gyazo.com/44ef72af30578c84822907eb52684854.png)](https://gyazo.com/44ef72af30578c84822907eb52684854)
